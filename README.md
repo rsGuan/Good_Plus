@@ -8,7 +8,7 @@
    step2. 安裝npm環境(請點選step2.exe)
    step3. 安裝yarn(請點選step3.exe)
 
-2. 倘若需要進行yarn升級，請點選Install資料夾內的Update.exx
+2. 倘若需要進行yarn升級，請點選Install資料夾內的Update.exe
 
 3. 使用系統時，僅須點選GoodPlus.exe即可
 
